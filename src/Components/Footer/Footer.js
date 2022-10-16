@@ -70,6 +70,17 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
+                <div className="bg-gray-100">
+                    <div class="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col justify-between">
+
+                        <p class="text-sm text-gray-500  sm:mt-0 mt-4">© Copyright 2022. All Rights Reserved
+                        </p>
+                        <p class="text-sm text-gray-500">
+                            <a href="/" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank"> Designed & Developed By:Akash & Prasad</a>
+                        </p>
+
+                    </div>
+                </div>
 
             </footer>
 
