@@ -6,6 +6,15 @@
   height: 28em;
   background-size: cover;
 }
+.flex-container-for-the-sk-fitness-home-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5em 0;
+}
+.width-set-for-the-screen-after-heading-section-sk-fitness {
+  width: 75em;
+}
 .bgc-for-the-main-header-screen-image {
   display: flex;
   justify-content: center;
