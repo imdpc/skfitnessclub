@@ -59,17 +59,17 @@ const NavBar = (props) => {
               >
                 <ul className="items-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                   <li className="text-white hover:text-red-700">
-                    <a href="javascript:void(0)">Home</a>
+                    <a href="HomePage">Home</a>
                   </li>
 
                   <li className="text-white hover:text-red-700">
                     <a href="javascript:void(0)">About </a>
                   </li>
                   <li className="text-white hover:text-red-700">
-                    <a href="javascript:void(0)">Gallery</a>
+                    <a href="Gallery">Gallery</a>
                   </li>
                   <li className="text-white hover:text-red-700">
-                    <a href="javascript:void(0)">Contact </a>
+                    <a href="ContactUs">Contact </a>
                   </li>
                 </ul>
 
